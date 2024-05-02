@@ -63,6 +63,7 @@ log4j.properties
 logback.xml
 newman.json
 Procfile
+Release.zip
 manifest.json
 info.plist
 AndroidManifest.xml
