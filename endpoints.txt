@@ -1,3 +1,6 @@
+ui/..\src\getSettings.rsb?@json
+gremlin
+.api/env
 .gitlab-ci.yml
 Jenkinsfile
 .travis.yml
